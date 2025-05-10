@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AISA Digital Solutions</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364); /* estilo digital */
+    color: #f0f0f0;
+  }
+  img { max-width: 100%; height: auto; margin-top: 10px; }
+  .project {
+    margin-bottom: 40px;
+    border-bottom: 1px solid #444;
+    padding-bottom: 20px;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .logo {
+    max-width: 150px;
+    display: block;
+    margin-bottom: 10px;
+    filter: brightness(1.2);
+  }
+  h1 {
+    text-align: center;
+    color: #ffffff;
+  }
+  h2 {
+    color: #66ccff;
+  }
+</style>
+
+</head>
+<body>
+  <h1>AISA Digital Solutions</h1>
+  <div id="projects"></div>
+
+  <script>
+    fetch('data.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('projects');
+        data.forEach(entry => {
+          const div = document.createElement('div');
+          div.classList.add("project");
+          div.innerHTML = `
+            <h2>${entry.project}</h2>
+            <img src="${entry.clientLogo}" alt="Client Logo" class="logo">
+            <img src="${entry.solutionImage}" alt="${entry.project}">
+            <p><strong>End Client:</strong> ${entry.endClient}</p>
+            <p><strong>Country:</strong> ${entry.country}</p>
+            <p><strong>Date:</strong> ${entry.date}</p>
+            <p><strong>Description:</strong> ${entry.description}</p>
+            <p><strong>Technologies:</strong> ${entry.technologies.join(', ')}</p>
+            <p><strong>Networks:</strong> ${entry.networks.join(', ')}</p>
+            <p><strong>Other Info:</strong> ${entry.others.join(', ')}</p>
+          `;
+          container.appendChild(div);
+        });
+      })
+      .catch(error => {
+        document.getElementById('projects').innerHTML = `<p style="color:red;">Error loading data.json: ${error.message}</p>`;
+      });
+  </script>
+</body>
+</html>
