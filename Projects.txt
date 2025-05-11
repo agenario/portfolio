@@ -1,0 +1,42 @@
+NOVO
+
+
+As a Senior Automation Engineer at NOVO Energy, I was responsible for driving the technological development and integration of highly automated process equipment for Clean and Dry Room environments. My focus areas included Formation and Ageing, Electrolyte Filling, Degassing, and Final Sealing, critical stages in lithium-ion battery manufacturing.
+
+I led the definition and implementation of the automation architecture, specifying control systems, PLC/HMI platforms, and communication protocols. I worked closely with suppliers to ensure seamless equipment integration into higher-level systems, including Manufacturing Execution Systems (MES) and supervisory control and data acquisition (SCADA).
+
+A major part of my role involved daily technical coordination with Asian original equipment manufacturers (OEMs) to guide machine design and ensure alignment with functional, automation, and safety requirements. I conducted regular design reviews and validation sessions to secure interface compatibility and system readiness.
+
+I collaborated with cross-functional teams including Safety, Process, Quality, and Operations to ensure that all equipment met CE marking requirements. This involved reviewing supplier documentation, risk assessments, and ensuring adherence to European safety directives and harmonized standards throughout the design phase.
+
+In parallel, I collaborated with the Facilities team to define and design the Electrical and Instrumentation (E&I) infrastructure for ISO-classified Clean and Dry Rooms. This included specifying cleanroom-compatible components, routing strategies, and implementing safety and redundancy measures aligned with GMP and environmental standards.
+
+I was also responsible for preparing and leading Factory Acceptance Tests (FAT) at supplier sites. These tests involved verifying functionality, safety compliance, sequence logic, I/O mapping, and documentation, ensuring the systems met project specifications before shipment to the installation site.
+
+
+
+
+As a Senior Automation Engineer Lead within the Automation team at Northvolt, I was responsible for overseeing the implementation and commissioning of advanced automation systems for lithium-ion battery production within Clean and Dry Room environments. My work focused on critical process areas including Formation and Ageing, Electrolyte Filling, Degas, and Final Sealing.
+
+I led a team of five junior automation engineers, providing technical guidance, mentoring, and coordinating task execution across multiple parallel workstreams. My leadership ensured consistent application of standards, streamlined communication with stakeholders, and accelerated the development of internal capabilities.
+
+Collaborating daily with internal software, quality, production, and facilities teams, I was responsible for defining automation concepts, managing integration into Manufacturing Execution Systems (MES), supervisory control and data acquisition (SCADA), quality portal, ensuring compliance with system and process requirements. My scope included control system architecture, I/O definition, communication protocols (e.g., OPC UA, Profinet, Ethercat), and data acquisition frameworks.
+
+I actively coordinated with cross-functional teams to guarantee that all new equipment complied with CE marking directives. This involved reviewing supplier documentation, supporting risk assessments, and verifying alignment with applicable EU safety and EMC standards before equipment acceptance.
+
+I participated in Factory Acceptance Tests (FAT) and Site Acceptance Tests (SAT) for the assigned equipment, ensuring robust validation of safety functions, process sequences, and automation logic. As a result of this structured approach, FAT durations were reduced, and post-installation commissioning time was significantly reduced, helping to keep the project on schedule.
+
+My initiatives to improve system availability and process stability included the implementation of diagnostic troubleshooting, enhanced alarm handling, and closed-loop feedback controls. These measures contributed to improving equipment availability during pilot production and reducing scrap and rework by 12.4% through better automation control and fault detection.
+
+In parallel, I contributed to R&D pilot lines focused on testing and validating emerging technologies such as automatic ultrasound quality inspection, supporting scalability and long-term quality strategy.
+
+
+As the Subject Matter Expert and technical advisor for the Schuler PXL Tandem Press Line at Estampados Magna, I supported the project across its full life cycle—from initial design and system specification through on-site commissioning and final integration.
+
+During the design phase, I guided the definition of control system architecture, safety logic, and automation interfaces, ensuring full alignment with Magna’s global engineering standards and CE-equivalent safety directives. I worked closely with Schuler and Magna engineering teams to validate concept design, PLC logic structures, motion control, and communication protocols, with a strong focus on reliability and maintainability.
+
+In parallel, I served as a strategic advisor for Digital Transformation and Industry 4.0 initiatives, identifying opportunities for system connectivity, real-time data acquisition, and architecture compatibility with MES and future predictive maintenance tools. I supported the planning of scalable digital infrastructure aligned with Magna’s smart manufacturing strategy.
+
+Drawing on my previous experience at Magna CSL, I proactively delivered lessons learned and improvement recommendations during the early design stages of the Estampados Magna line. These contributions influenced key decisions on equipment layout, control standardization, and error recovery strategies, helping avoid known commissioning challenges and accelerating project readiness.
+
+This project demonstrates my ability to lead technically complex automation initiatives in the automotive sector, combining hands-on system knowledge with strategic contributions to digitalization, cross-plant standardization, and continuous improvement.
