@@ -4,7 +4,7 @@
 Welcome to my professional portfolio. 
 Here you will find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, and Project Engineer. With a strong electrical and control engineering foundation, my work spans multiple industries—including automotive, battery manufacturing, and high-tech production environments—across Latin America, North America, Europe, and Asia.
 
-🔧<span style="font-size: 2.0em;">**Overview**</span>
+🔧<span style="font-size: 10.0em;">**Overview**</span>
 
 This portfolio showcases real-world automation projects on which I have delivered full life cycle engineering—from concept and system architecture through FAT, commissioning, and integration into MES and Industry 4.0 ecosystems. I bring a hybrid profile of hands-on technical experience and cross-functional leadership, frequently serving as a bridge between OEMs, software teams, production, and stakeholders.
 
@@ -12,13 +12,15 @@ This portfolio showcases real-world automation projects on which I have delivere
 
 <span style="font-size: 1.2em;">Industrial automation</span> 
 
-<span style="font-size: 1.2em;">PLC, SCADA, and MES integration</span>
+<span style="font-size: 1.2em;">Digital transformation and Industry 4.0 consulting</span>
+
+<span style="font-size: 1.2em;">PLC/HMI, SCADA, and MES integration</span>
+
+<span style="font-size: 1.2em;">Automotive commissioning, optimization, and ramp up, including Robot optimization, Destackers, Transfer, Mechanical, Hydraulic, and Servo Presses</span>
 
 <span style="font-size: 1.2em;">Functional safety and CE compliance (EU Machinery Directive)</span>
 
 <span style="font-size: 1.2em;">FAT/SAT leadership and technical documentation</span>
-
-<span style="font-size: 1.2em;">Digital transformation and Industry 4.0 consulting</span>
 
 <span style="font-size: 1.2em;">Cross-functional mentoring and team leadership</span>
 
