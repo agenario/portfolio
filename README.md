@@ -1,6 +1,16 @@
 
 # **Portfolio**
 
+## **🚀 Purpose of This Portfolio**
+
+This portfolio is designed for:
+
+Clients and partners seeking technical expertise in industrial automation
+
+Engineering teams looking for leadership in digitalization and smart manufacturing
+
+Recruiters and project owners evaluating freelance or contract engineering support
+
 Welcome to my professional portfolio. 
 Here you will find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, and Project Engineer. With a strong electrical and control engineering foundation, my work spans multiple industries, including automotive, battery manufacturing, and high-tech production environments across Latin America, North America, Europe, and Asia.
 
@@ -70,12 +80,3 @@ Rockwell Automation ControlLogix & Studio 5000 (Intermediate)
 
 KUKA Robots Programming (Intermediate) 
 
-## **🚀 Purpose of This Portfolio**
-
-This portfolio is designed for:
-
-Clients and partners seeking technical expertise in industrial automation
-
-Engineering teams looking for leadership in digitalization and smart manufacturing
-
-Recruiters and project owners evaluating freelance or contract engineering support
