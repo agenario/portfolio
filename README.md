@@ -2,11 +2,11 @@
 # **Portfolio**
 <span style="font-size:20px"><strong>Portfolio</strong></span>
 
-Welcome to my professional portfolio. Here, you’ll find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, and Project Enginer. With a strong foundation in electrical and control engineering, my work spans multiple industries—including automotive, battery manufacturing, and high-tech production environments—across Europe and Latin America.
+Welcome to my professional portfolio. Here, you’ll find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, and Project Engineer. With a strong electrical and control engineering foundation, my work spans multiple industries—including automotive, battery manufacturing, and high-tech production environments—across Europe and Latin America.
 
 🔧 **Overview**
-<span style="font-size:20px"><strong>Overview</strong></span>
-This portfolio showcases real-world automation projects where I have delivered full life cycle engineering—from concept and system architecture through FAT, commissioning, and integration into MES and Industry 4.0 ecosystems. I bring a hybrid profile with both hands-on technical experience and cross-functional leadership, frequently serving as a bridge between OEMs, software teams, production, and stakeholders.
+
+This portfolio showcases real-world automation projects on which I have delivered full life cycle engineering—from concept and system architecture through FAT, commissioning, and integration into MES and Industry 4.0 ecosystems. I bring a hybrid profile of hands-on technical experience and cross-functional leadership, frequently serving as a bridge between OEMs, software teams, production, and stakeholders.
 
 **Key Areas of Expertise**:
 Industrial automation 
@@ -22,7 +22,7 @@ Digital transformation and Industry 4.0 consulting
 Cross-functional mentoring and team leadership
 
 📂 **Project Highlights**
-Northvolt Gigafactory/NOVO Energy Gigafactory (Sweden): Senior Engineering Lead for high-precision battery automation systems; led from design to FAT/SAT, ensured CE compliance, and reduced commissioning time by agile approach.
+Northvolt Gigafactory/NOVO Energy Gigafactory (Sweden): Senior Engineering Lead for high-precision battery automation systems; led from design to FAT/SAT, ensured CE compliance, and reduced commissioning time by an agile approach.
 
 Magna International (Mexico): SME and technical advisor of Digital transformation and Industry 4.0 for a Schuler Tandem Press Line project; supported design-to-commissioning and contributed lessons learned from Magna CSL to improve system reliability and integration.
 
@@ -34,7 +34,7 @@ More available under individual project folders with technical summaries and out
 Bachelor of Science Degree in Electrical Engineering (emphasis on electronics)
 University Center of FEI (FEI), Brazil
 
-Master in Business Administration in Project Management
+Master's in Business Administration in Project Management
 USP ESALQ, Brazil
 
 Languages: English (fluent), Spanish (fluent),  Portuguese (native), German (basic, learning)
@@ -45,13 +45,13 @@ Digital Transformation, 12 Weeks Accelerator Program (ongoing) - 4.0 Solutions
 
 Digital Transformation, Enterprise Solutions - 4.0 Solutions 
 
-Advanced topics in Project Management - University of La Verne
+Advanced Topics in Project Management - University of La Verne
 
 Digital Transformation - Fundacao Getulio Vargas
 
 Digital Transformation, IIOT mini course - 4.0 Solutions 
 
-Project Management Institute, Citizen Developer Pratitioner
+Project Management Institute, Citizen Developer Practitioner
 
 Certified Scrum Product Owner (CSPO) - Scrum Alliance
 
