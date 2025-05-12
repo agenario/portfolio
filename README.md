@@ -8,6 +8,7 @@ Welcome to my professional portfolio. Here, you’ll find a curated collection o
 This portfolio showcases real-world automation projects on which I have delivered full life cycle engineering—from concept and system architecture through FAT, commissioning, and integration into MES and Industry 4.0 ecosystems. I bring a hybrid profile of hands-on technical experience and cross-functional leadership, frequently serving as a bridge between OEMs, software teams, production, and stakeholders.
 
 **Key Areas of Expertise**:
+
 Industrial automation 
 
 PLC, SCADA, and MES integration
