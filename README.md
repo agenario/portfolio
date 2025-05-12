@@ -1,6 +1,5 @@
 
 # **Portfolio**
-<span style="font-size:20px"><strong>Portfolio</strong></span>
 
 Welcome to my professional portfolio. Here, you’ll find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, and Project Engineer. With a strong electrical and control engineering foundation, my work spans multiple industries—including automotive, battery manufacturing, and high-tech production environments—across Europe and Latin America.
 
@@ -22,6 +21,7 @@ Digital transformation and Industry 4.0 consulting
 Cross-functional mentoring and team leadership
 
 📂 **Project Highlights**
+
 Northvolt Gigafactory/NOVO Energy Gigafactory (Sweden): Senior Engineering Lead for high-precision battery automation systems; led from design to FAT/SAT, ensured CE compliance, and reduced commissioning time by an agile approach.
 
 Magna International (Mexico): SME and technical advisor of Digital transformation and Industry 4.0 for a Schuler Tandem Press Line project; supported design-to-commissioning and contributed lessons learned from Magna CSL to improve system reliability and integration.
@@ -31,6 +31,7 @@ Schuler Group, part of Andritz group (Sweden): Led global automation and electri
 More available under individual project folders with technical summaries and outcomes.
 
 🎓 **Academic Background**
+
 Bachelor of Science Degree in Electrical Engineering (emphasis on electronics)
 University Center of FEI (FEI), Brazil
 
@@ -66,6 +67,7 @@ Rockwell Automation ControlLogix & Studio 5000 (Intermediate)
 KUKA Robots Programming (Intermediate) 
 
 🚀 **Purpose of This Portfolio**
+
 This portfolio is designed for:
 
 Clients and partners seeking technical expertise in industrial automation
