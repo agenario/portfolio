@@ -14,7 +14,7 @@ Recruiters and project owners evaluating freelance or contract engineering suppo
 
 ## **🔧 Overview**
 
-This portfolio showcases real-world automation projects on which I have delivered full life cycle engineering from concept and system architecture through FAT, commissioning, and integration into MES and Industry 4.0 ecosystems. I bring a hybrid profile of hands-on technical experience and cross-functional leadership, frequently serving as a bridge between OEMs, software teams, production, and stakeholders.
+This portfolio showcases real-world automation projects on which I have delivered full life cycle engineering from concept and system architecture through FAT, commissioning, SAT, and integration into MES and Industry 4.0 ecosystems. I bring a hybrid profile of hands-on technical experience and cross-functional leadership, frequently serving as a bridge between OEMs, software teams, production, and stakeholders.
 
 ### **Key Areas of Expertise**:
 
