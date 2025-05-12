@@ -10,13 +10,13 @@ This portfolio showcases real-world automation projects on which I have delivere
 
 ### **Key Areas of Expertise**:
 
-Industrial automation
+Industrial automation, PLC/HMI, SCADA, and MES integration
 
 Digital transformation and Industry 4.0 consulting
 
-PLC/HMI, SCADA, and MES integration
+Stamping lines technical advisor for connectivity and Smart factory
 
-Automotive commissioning, optimization, and ramp up, including Robot optimization, Destackers, Transfer, Mechanical, Hydraulic, and Servo Presses
+Commissioning, optimization, ramp-up, Mechanical, Hydraulic, and Servo Presses, Servo Destackers, and Transfer
 
 Functional safety and CE compliance (EU Machinery Directive)
 
