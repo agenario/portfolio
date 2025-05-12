@@ -2,7 +2,7 @@
 # **Portfolio**
 
 Welcome to my professional portfolio. 
-Here you will find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, and Project Engineer. With a strong electrical and control engineering foundation, my work spans multiple industries—including automotive, battery manufacturing, and high-tech production environments across Latin America, North America, Europe, and Asia.
+Here you will find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, and Project Engineer. With a strong electrical and control engineering foundation, my work spans multiple industries, including automotive, battery manufacturing, and high-tech production environments across Latin America, North America, Europe, and Asia.
 
 ## **🔧 Overview**
 
@@ -28,7 +28,7 @@ Cross-functional mentoring and team leadership
 
 Northvolt Gigafactory/NOVO Energy Gigafactory (Sweden): Senior Engineering Lead for high-precision battery automation systems; led from design to FAT/SAT, ensured CE compliance, and reduced commissioning time by an agile approach.
 
-Magna International (México): SME and technical advisor of Digital transformation and Industry 4.0 for a Schuler Tandem Press Line project; supported design-to-commissioning and contributed lessons learned from Magna CSL to improve system reliability and integration.
+Magna International (México): SME and technical advisor of Digital transformation and Industry 4.0 for a Schuler Tandem Press Line project; supported design to commissioning and contributed lessons learned from Magna CSL to improve system reliability and integration.
 
 Schuler Group, part of Andritz group (Brazil): Led global automation and electrical projects up to $25M across the automotive sector, delivering full PLC/HMI solutions and commissioning in Germany, USA, Mexico, and more. Supported major OEMs like Volkswagen, General Motors, Stellantis, and Magna with automation launches, retrofits, and safety upgrades.
 
