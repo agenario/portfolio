@@ -4,7 +4,8 @@
 Welcome to my professional portfolio! 
 
 Here you will find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, Project Engineer, Digital Transformation and Smart Factories advisor. 
-Progressive experience in multinational environments spanning engineering, consulting, manufacturing, maintenance, project management, digitalization, and industrial automation. I have been involved in international projects across the USA, Argentina, Brazil, México, Germany, Portugal, Sweden, and South Korea.
+
+Progressive experience in international environments spanning engineering, consulting, manufacturing, maintenance, project management, digitalization, and industrial automation. I have been involved in international projects across the USA, Argentina, Brazil, México, Germany, Portugal, Sweden, and South Korea.
 
 This portfolio is designed for:
 
