@@ -13,7 +13,7 @@ Engineering teams looking for leadership in digitalization and smart manufacturi
 
 Recruiters and project owners evaluating freelance or contract engineering support
 
-[Conect with me on LinkedIn](https://www.linkedin.com/in/agenario) 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/agenario) 
 
 ## **🔧 Overview**
 
