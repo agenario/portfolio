@@ -28,9 +28,9 @@ Cross-functional mentoring and team leadership
 
 Northvolt Gigafactory/NOVO Energy Gigafactory (Sweden): Senior Engineering Lead for high-precision battery automation systems; led from design to FAT/SAT, ensured CE compliance, and reduced commissioning time by an agile approach.
 
-Magna International (Mexico): SME and technical advisor of Digital transformation and Industry 4.0 for a Schuler Tandem Press Line project; supported design-to-commissioning and contributed lessons learned from Magna CSL to improve system reliability and integration.
+Magna International (México): SME and technical advisor of Digital transformation and Industry 4.0 for a Schuler Tandem Press Line project; supported design-to-commissioning and contributed lessons learned from Magna CSL to improve system reliability and integration.
 
-Schuler Group, part of Andritz group (Sweden): Led global automation and electrical projects up to $25M across the automotive sector, delivering full PLC/HMI solutions and commissioning in Germany, USA, Mexico, and more. Executed a fully automated forging line with KUKA robots and developed a Beckhoff-based Servo Destacker, generating $15.2M in new business. Supported major OEMs like VW, GM, Stellantis, and Magna with automation launches, retrofits, and safety upgrades.
+Schuler Group, part of Andritz group (Brazil): Led global automation and electrical projects up to $25M across the automotive sector, delivering full PLC/HMI solutions and commissioning in Germany, USA, Mexico, and more. Supported major OEMs like Volkswagen, General Motors, Stellantis, and Magna with automation launches, retrofits, and safety upgrades.
 
 More available under individual project folders with technical summaries and outcomes.
 
