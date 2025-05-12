@@ -1,27 +1,28 @@
 
 # **Portfolio**
 
-Welcome to my professional portfolio. Here, you’ll find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, and Project Engineer. With a strong electrical and control engineering foundation, my work spans multiple industries—including automotive, battery manufacturing, and high-tech production environments—across Europe and Latin America.
+Welcome to my professional portfolio. 
+Here you will find a curated collection of industrial automation and digitalization projects I’ve led or contributed to as a Senior Automation Engineer, Subject Matter Expert, and Project Engineer. With a strong electrical and control engineering foundation, my work spans multiple industries—including automotive, battery manufacturing, and high-tech production environments—across Europe and Latin America.
 
-🔧 **Overview**
+🔧<span style="font-size: 1.5em;">**Overview**</span>
 
 This portfolio showcases real-world automation projects on which I have delivered full life cycle engineering—from concept and system architecture through FAT, commissioning, and integration into MES and Industry 4.0 ecosystems. I bring a hybrid profile of hands-on technical experience and cross-functional leadership, frequently serving as a bridge between OEMs, software teams, production, and stakeholders.
 
-**Key Areas of Expertise**:
+<span style="font-size: 1.5em;">**Key Areas of Expertise:**</span>
 
-Industrial automation 
+<span style="font-size: 1.2em;">Industrial automation</span> 
 
-PLC, SCADA, and MES integration
+<span style="font-size: 1.2em;">PLC, SCADA, and MES integration</span>
 
-Functional safety and CE compliance (EU Machinery Directive)
+<span style="font-size: 1.2em;">Functional safety and CE compliance (EU Machinery Directive)</span>
 
-FAT/SAT leadership and technical documentation
+<span style="font-size: 1.2em;">FAT/SAT leadership and technical documentation</span>
 
-Digital transformation and Industry 4.0 consulting
+<span style="font-size: 1.2em;">Digital transformation and Industry 4.0 consulting</span>
 
-Cross-functional mentoring and team leadership
+<span style="font-size: 1.2em;">Cross-functional mentoring and team leadership</span>
 
-📂 **Project Highlights**
+📂 <span style="font-size: 1.5em;">**Project Highlights**</span>
 
 Northvolt Gigafactory/NOVO Energy Gigafactory (Sweden): Senior Engineering Lead for high-precision battery automation systems; led from design to FAT/SAT, ensured CE compliance, and reduced commissioning time by an agile approach.
 
@@ -31,7 +32,7 @@ Schuler Group, part of Andritz group (Sweden): Led global automation and electri
 
 More available under individual project folders with technical summaries and outcomes.
 
-🎓 **Academic Background**
+🎓 <span style="font-size: 1.5em;">**Academic Background**</span>
 
 Bachelor of Science Degree in Electrical Engineering (emphasis on electronics)
 University Center of FEI (FEI), Brazil
@@ -41,7 +42,7 @@ USP ESALQ, Brazil
 
 Languages: English (fluent), Spanish (fluent),  Portuguese (native), German (basic, learning)
 
-📜 **Certifications**
+📜 <span style="font-size: 1.5em;">**Certifications**</span>
 
 Digital Transformation, 12 Weeks Accelerator Program (ongoing) - 4.0 Solutions
 
@@ -67,7 +68,7 @@ Rockwell Automation ControlLogix & Studio 5000 (Intermediate)
 
 KUKA Robots Programming (Intermediate) 
 
-🚀 **Purpose of This Portfolio**
+🚀 <span style="font-size: 1.5em;">**Purpose of This Portfolio**</span>
 
 This portfolio is designed for:
 
