@@ -16,7 +16,7 @@ Digital transformation and Industry 4.0 consulting
 
 Stamping lines technical advisor for connectivity and Smart factory
 
-Commissioning, optimization, ramp-up, Mechanical, Hydraulic, and Servo Presses, Servo Destackers, and Transfer
+Commissioning, optimization, ramp-up, Mechanical, Hydraulic, and Servo Presses, Destackers, and Transfer
 
 Functional safety and CE compliance (EU Machinery Directive)
 
