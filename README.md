@@ -13,6 +13,8 @@ Engineering teams looking for leadership in digitalization and smart manufacturi
 
 Recruiters and project owners evaluating freelance or contract engineering support
 
+[Conect with me on LinkedIn](https://www.linkedin.com/in/agenario) 
+
 ## **🔧 Overview**
 
 This portfolio showcases real-world automation projects on which I have delivered full life cycle engineering from concept and system architecture through FAT, commissioning, SAT, and integration into MES and Industry 4.0 ecosystems. I bring a hybrid profile of hands-on technical experience and cross-functional leadership, frequently serving as a bridge between OEMs, software teams, production, and stakeholders.
