@@ -9,8 +9,8 @@
     "technologies": ["Siemens Tia Portal V19, Wincc Unified", "KUKA Robot KRC5", "Eplan P8", "OPC UA UaExpert", "Prosys OPC", "Keyence Vision System - Bar code readers", "Cognex Vision System - 3D"],
     "networks": ["Profinet", "Profisafe", "OPC UA", "MQTT"],
     "others": ["Siemens TeamCenter", "Ms Project", "Visio", "Power BI"],
-    "clientLogo": "images/clients/novo.png",
-    "solutionImage": "images/solutions/novo.png"
+    "clientLogo": "images/clients/Novo.png",
+    "solutionImage": "images/solutions/Novo.png"
   },
   {
     "project": "Northvolt Ett, Formation and Ageing FA1",
@@ -22,8 +22,8 @@
     "technologies": ["Beckhoff TwinCAT 3", "Siemens Tia Portal V19", "ABB robots", "Eplan P8", "OPC UA UaExpert", "Prosys OPC", "Keyence Vision System - Bar code readers", "Cognex Vision System - 3D"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA", "MQTT"],
     "others": ["Traceability", "Telemetry", "Machine state - PackML", "Confluence", "Jira", "Kibana", "Grafana", "Github", "Swagger", "Octoplant", "OpenSearch", "Siemens TeamCenter", "Ms Project", "Visio", "Power BI"],
-    "clientLogo": "images/clients/northvolt.png",
-    "solutionImage": "images/solutions/northvolt.png"
+    "clientLogo": "images/clients/Northvolt.png",
+    "solutionImage": "images/solutions/Northvolt.png"
   },
   {
     "project": "Estampados Magna, Schuler PXL Servo Press Line",
@@ -35,7 +35,7 @@
     "technologies": ["Siemens Tia Portal V19, Wincc, Sinamics", "KUKA Robot KRC5", "Beckhoff TwinCAT 3", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Schuler inline Vision system", "Schuler ServoDirect Technology", "Schuler Servo controlled Cushion", "Schuler Cross Bar Robot", "Eckardt Reoiler and Blank Washer"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA", "MQTT"],
     "others": ["Project Management, PMOK and Agile frameworks", "Ms Project", "Visio", "Power BI"],
-    "clientLogo": "images/clients/magna.png",
+    "clientLogo": "images/clients/Magna.png",
     "solutionImage": "images/solutions/PXL_saltillo.png"
   },
     {
@@ -48,8 +48,8 @@
     "technologies": ["Unified Namespace (UNS)", "Nodered", "Mosquitto Broker", "InfluxDB", "Grafana", "Siemens Tia Portal & Step7, Wincc, Sinamics", "KUKA Robot KRC4", "Beckhoff TwinCAT 2"],
     "networks": ["OPC UA", "MQTT", "Ethercat", "Profinet", "Profisafe"],
     "others": [],
-    "clientLogo": "images/clients/magna.png",
-    "solutionImage": "images/solutions/dashboard.png"
+    "clientLogo": "images/clients/Magna.png",
+    "solutionImage": "images/solutions/Dashboard.png"
   },
   {
     "project": "Magna Cosma San Luis, Fagor Hydraulic Tryout Press 2000 Ton",
@@ -57,11 +57,11 @@
     "segment": "Automotive",
     "country": "San Luis Potosí, México",
     "date": "Jun 2019 - Apr 2021",
-    "description": "I was assigned as the technical lead for the acquisition and implementation of a Fagor hydraulic tryout press. My role began during the early definition stage, including RFQs, scopes of work, technical specifications, and supplier qualification, where I contributed to the specification of functional requirements and performance criteria.  <br><br>I coordinated with internal facilities, maintenance, safety, and operations teams to ensure the press met operational needs and safety standards. I managed supplier technical design review, reviewed electrical and automation designs, and oversaw the planning of maintenance and safety procedures.<br><br>This structured and collaborative approach ensured a smooth installation and commissioning phase, with minimized downtime and alignment to all regulatory and operational expectations. The press integration enhanced flexibility in tooling validation and reduced lead times for new parts.",
+    "description": "I was assigned as the technical lead for acquiring and implementing a Fagor hydraulic tryout press. My role began during the early definition stage, including RFQs, scopes of work, technical specifications, and supplier qualification, where I contributed to the specification of functional requirements and performance criteria.  <br><br>I coordinated with internal facilities, maintenance, safety, and operations teams to ensure the press met operational needs and safety standards. I managed supplier technical design review, reviewed electrical and automation designs, and oversaw the planning of maintenance and safety procedures.<br><br>This structured and collaborative approach ensured a smooth installation and commissioning phase, with minimized downtime and alignment to all regulatory and operational expectations. The press integration enhanced flexibility in tooling validation and reduced lead times for new parts.",
     "technologies": ["Siemens Tia Portal V19, Wincc, Sinamics", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Beckhoff TwinCAT 3", "Eplan P8", "Fagor Hydraulic Press", "Fagor HMI"],
     "networks": [ "Profinet", "Profisafe", "Ethercat", "OPC UA"],
     "others": ["Project Management, PMOK and Agile frameworks", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/magna.png",
+    "clientLogo": "images/clients/Magna.png",
     "solutionImage": "images/solutions/Fagor.png"
   },
   {
@@ -70,12 +70,12 @@
     "segment": "Automotive",
     "country": "San Luis Potosí, México",
     "date": "Jun 2019 - Apr 2021",
-    "description": "Assigned as the technical lead for the implementation of a blank washing machine, I was responsible for driving the entire project from the RFQ phase through installation and commissioning. The objective was to address quality issues in the stamping process caused by contamination on raw material surfaces, which affected outer part finishes.<br><br>I defined the technical specifications, led supplier evaluations, and managed engineering reviews to ensure machine capability met production and quality requirements. In addition to automation and integration tasks, I was responsible for overseeing the construction and facilities work required for the new installation. This included coordinating civil, electrical, and utility preparations to ensure readiness for equipment delivery.<br><br>During installation and commissioning, I led the interface development between the washer and the existing line automation, implemented safety systems, and ensured full compliance with operational standards.<br><br>The machine integration resulted in a 35% improvement in the surface quality of outer stamped parts, substantially reducing scrap and rework rates and ensuring compliance with OEM quality expectations.",
+    "description": "Assigned as the technical lead for implementing a blank washing machine, I was responsible for driving the entire project from the RFQ phase through installation and commissioning. The objective was to address quality issues in the stamping process caused by contamination on raw material surfaces, which affected outer part finishes.<br><br>I defined the technical specifications, led supplier evaluations, and managed engineering reviews to ensure machine capability met production and quality requirements. In addition to automation and integration tasks, I was responsible for overseeing the construction and facilities work required for the new installation. This included coordinating civil, electrical, and utility preparations to ensure readiness for equipment delivery.<br><br>During installation and commissioning, I led the interface development between the washer and the existing line automation, implemented safety systems, and ensured full compliance with operational standards.<br><br>The machine integration resulted in a 35% improvement in the surface quality of outer stamped parts, substantially reducing scrap and rework rates and ensuring compliance with OEM quality expectations.",
     "technologies": ["Siemens Step7, Wincc"],
     "networks": ["Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK and Agile frameworks", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/magna.png",
-    "solutionImage": "images/solutions/eckardt.png"
+    "clientLogo": "images/clients/Magna.png",
+    "solutionImage": "images/solutions/Eckardt.png"
   },
     {
     "project": "Magna Cosma San Luis, Line ramp-up Schuler PXL Servo Press Line",
@@ -87,7 +87,7 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "KUKA Robot KRC4", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Pepperl-Fuchs inline Vision system", "Schuler ServoDirect Technology", "Schuler Servo controlled Cushion", "Schuler Cross Bar Robot", "Eckardt Reoiler and Blank Washer"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK and Agile frameworks", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/magna.png",
+    "clientLogo": "images/clients/Magna.png",
     "solutionImage": "images/solutions/PXL_CSL.png"
   },
   {
@@ -100,8 +100,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "KUKA Robot KRC4", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Pepperl-Fuchs inline Vision system", "Schuler ServoDirect Technology", "Schuler Servo controlled Cushion", "Schuler Cross Bar Robot", "Eckardt Reoiler and Blank Washer"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/magna.png",
-    "solutionImage": "images/solutions/magna_csl.png"
+    "clientLogo": "images/clients/Magna.png",
+    "solutionImage": "images/solutions/Magna_CSL.png"
   },
   {
     "project": "Cinpal do Brasil, Line Control of Forging Line",
@@ -113,8 +113,8 @@
     "technologies": ["Siemens Step7, Wincc", "KUKA Robot KRC4", "Eplan P8"],
     "networks": ["Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/cinpal.png",
-    "solutionImage": "images/solutions/cinpal.png"
+    "clientLogo": "images/clients/Cinpal.png",
+    "solutionImage": "images/solutions/Cinpal.png"
   },
   {
     "project": "Gestamp, Commissioning of Destacker for Small Transfer Press",
@@ -126,8 +126,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Technotrans Spray Lubrification System"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA", "Beckhoff Ethercat Pub/Sub"],
     "others": ["Project Management, PMOK", "Ms Project"],
-    "clientLogo": "images/clients/gestamp.png",
-    "solutionImage": "images/solutions/transfer.png"
+    "clientLogo": "images/clients/Gestamp.png",
+    "solutionImage": "images/solutions/Transfer.png"
   },
   {
     "project": "Volkswagen Autoeuropa, Retrofit Destacker Crossbar Line",
@@ -152,8 +152,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA", "Beckhoff Ethercat Pub/Sub"],
     "others": ["Project Management, PMOK", "Ms Project"],
-    "clientLogo": "images/clients/jeep.png",
-    "solutionImage": "images/solutions/jeep.png"
+    "clientLogo": "images/clients/Jeep.png",
+    "solutionImage": "images/solutions/Jeep.png"
   },
   {
     "project": "Volkswagen, Commissioning of Schuler PXL Mechanical Line",
@@ -182,7 +182,7 @@
     "solutionImage": "images/solutions/Vw_transfer.png"
   },
   {
-    "project": "Volkswagen, Retrofit and safety adequancy Line 23",
+    "project": "Volkswagen, Retrofit and safety adequacy Line 23",
     "Client": "Volkswagen",
     "segment": "Automotive",
     "country": "São Bernardo do Campo, Brazil",
@@ -195,7 +195,7 @@
     "solutionImage": "images/solutions/VW_rua.png"
   },
   {
-    "project": "Volkswagen, Retrofit and safety adequancy Line 7",
+    "project": "Volkswagen, Retrofit and safety adequacy Line 7",
     "Client": "Volkswagen",
     "segment": "Automotive",
     "country": "São Bernardo do Campo, Brazil",
