@@ -9,8 +9,8 @@
     "technologies": ["Siemens Tia Portal V19, Wincc Unified", "KUKA Robot KRC5", "Eplan P8", "OPC UA UaExpert", "Prosys OPC", "Keyence Vision System - Bar code readers", "Cognex Vision System - 3D"],
     "networks": ["Profinet", "Profisafe", "OPC UA", "MQTT"],
     "others": ["Siemens TeamCenter", "Ms Project", "Visio", "Power BI"],
-    "clientLogo": "images/clients/Novo.png",
-    "solutionImage": "images/solutions/Novo.png"
+    "clientLogo": "images/Clients/Novo.png",
+    "solutionImage": "images/Solutions/Novo.png"
   },
   {
     "project": "Northvolt Ett, Formation and Ageing FA1",
@@ -22,8 +22,8 @@
     "technologies": ["Beckhoff TwinCAT 3", "Siemens Tia Portal V19", "ABB robots", "Eplan P8", "OPC UA UaExpert", "Prosys OPC", "Keyence Vision System - Bar code readers", "Cognex Vision System - 3D"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA", "MQTT"],
     "others": ["Traceability", "Telemetry", "Machine state - PackML", "Confluence", "Jira", "Kibana", "Grafana", "Github", "Swagger", "Octoplant", "OpenSearch", "Siemens TeamCenter", "Ms Project", "Visio", "Power BI"],
-    "clientLogo": "images/clients/Northvolt.png",
-    "solutionImage": "images/solutions/Northvolt.png"
+    "clientLogo": "images/Clients/Northvolt.png",
+    "solutionImage": "images/Solutions/Northvolt.png"
   },
   {
     "project": "Estampados Magna, Schuler PXL Servo Press Line",
@@ -35,8 +35,8 @@
     "technologies": ["Siemens Tia Portal V19, Wincc, Sinamics", "KUKA Robot KRC5", "Beckhoff TwinCAT 3", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Schuler inline Vision system", "Schuler ServoDirect Technology", "Schuler Servo controlled Cushion", "Schuler Cross Bar Robot", "Eckardt Reoiler and Blank Washer"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA", "MQTT"],
     "others": ["Project Management, PMOK and Agile frameworks", "Ms Project", "Visio", "Power BI"],
-    "clientLogo": "images/clients/Magna.png",
-    "solutionImage": "images/solutions/PXL_saltillo.png"
+    "clientLogo": "images/Clients/Magna.png",
+    "solutionImage": "images/Solutions/PXL_saltillo.png"
   },
     {
     "project": "Magna Cosma San Luis, Implementation of UNS and OEE Dashboards",
@@ -48,8 +48,8 @@
     "technologies": ["Unified Namespace (UNS)", "Nodered", "Mosquitto Broker", "InfluxDB", "Grafana", "Siemens Tia Portal & Step7, Wincc, Sinamics", "KUKA Robot KRC4", "Beckhoff TwinCAT 2"],
     "networks": ["OPC UA", "MQTT", "Ethercat", "Profinet", "Profisafe"],
     "others": [],
-    "clientLogo": "images/clients/Magna.png",
-    "solutionImage": "images/solutions/Dashboard.png"
+    "clientLogo": "images/Clients/Magna.png",
+    "solutionImage": "images/Solutions/Dashboard.png"
   },
   {
     "project": "Magna Cosma San Luis, Fagor Hydraulic Tryout Press 2000 Ton",
@@ -61,8 +61,8 @@
     "technologies": ["Siemens Tia Portal V19, Wincc, Sinamics", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Beckhoff TwinCAT 3", "Eplan P8", "Fagor Hydraulic Press", "Fagor HMI"],
     "networks": [ "Profinet", "Profisafe", "Ethercat", "OPC UA"],
     "others": ["Project Management, PMOK and Agile frameworks", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/Magna.png",
-    "solutionImage": "images/solutions/Fagor.png"
+    "clientLogo": "images/Clients/Magna.png",
+    "solutionImage": "images/Solutions/Fagor.png"
   },
   {
     "project": "Magna Cosma San Luis, Eckardt Blank Washing Machine",
@@ -74,8 +74,8 @@
     "technologies": ["Siemens Step7, Wincc"],
     "networks": ["Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK and Agile frameworks", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/Magna.png",
-    "solutionImage": "images/solutions/Eckardt.png"
+    "clientLogo": "images/Clients/Magna.png",
+    "solutionImage": "images/Solutions/Eckardt.png"
   },
     {
     "project": "Magna Cosma San Luis, Line ramp-up Schuler PXL Servo Press Line",
@@ -87,8 +87,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "KUKA Robot KRC4", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Pepperl-Fuchs inline Vision system", "Schuler ServoDirect Technology", "Schuler Servo controlled Cushion", "Schuler Cross Bar Robot", "Eckardt Reoiler and Blank Washer"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK and Agile frameworks", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/Magna.png",
-    "solutionImage": "images/solutions/PXL_CSL.png"
+    "clientLogo": "images/Clients/Magna.png",
+    "solutionImage": "images/Solutions/PXL_CSL.png"
   },
   {
     "project": "Magna Cosma San Luis, Commissioning of Schuler PXL Servo Line",
@@ -100,8 +100,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "KUKA Robot KRC4", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Pepperl-Fuchs inline Vision system", "Schuler ServoDirect Technology", "Schuler Servo controlled Cushion", "Schuler Cross Bar Robot", "Eckardt Reoiler and Blank Washer"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/Magna.png",
-    "solutionImage": "images/solutions/Magna_CSL.png"
+    "clientLogo": "images/Clients/Magna.png",
+    "solutionImage": "images/Solutions/Magna_CSL.png"
   },
   {
     "project": "Cinpal do Brasil, Line Control of Forging Line",
@@ -113,8 +113,8 @@
     "technologies": ["Siemens Step7, Wincc", "KUKA Robot KRC4", "Eplan P8"],
     "networks": ["Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/Cinpal.png",
-    "solutionImage": "images/solutions/Cinpal.png"
+    "clientLogo": "images/Clients/Cinpal.png",
+    "solutionImage": "images/Solutions/Cinpal.png"
   },
   {
     "project": "Gestamp, Commissioning of Destacker for Small Transfer Press",
@@ -126,8 +126,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Technotrans Spray Lubrification System"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA", "Beckhoff Ethercat Pub/Sub"],
     "others": ["Project Management, PMOK", "Ms Project"],
-    "clientLogo": "images/clients/Gestamp.png",
-    "solutionImage": "images/solutions/Transfer.png"
+    "clientLogo": "images/Clients/Gestamp.png",
+    "solutionImage": "images/Solutions/Transfer.png"
   },
   {
     "project": "Volkswagen Autoeuropa, Retrofit Destacker Crossbar Line",
@@ -139,8 +139,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "KUKA Robot KRC4", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Pepperl-Fuchs inline Vision system"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA"],
     "others": [],
-    "clientLogo": "images/clients/volkswagen_autoeuropa.png",
-    "solutionImage": "images/solutions/Volkswagen_autoeuropa.png"
+    "clientLogo": "images/Clients/volkswagen_autoeuropa.png",
+    "solutionImage": "images/Solutions/Volkswagen_autoeuropa.png"
   },
   {
     "project": "Jeep, Commissioning of Destacker for Small Transfer Press",
@@ -152,8 +152,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA", "Beckhoff Ethercat Pub/Sub"],
     "others": ["Project Management, PMOK", "Ms Project"],
-    "clientLogo": "images/clients/Jeep.png",
-    "solutionImage": "images/solutions/Jeep.png"
+    "clientLogo": "images/Clients/Jeep.png",
+    "solutionImage": "images/Solutions/Jeep.png"
   },
   {
     "project": "Volkswagen, Commissioning of Schuler PXL Mechanical Line",
@@ -165,8 +165,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "KUKA Robot KRC3", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Pepperl-Fuchs inline Vision system", "Schuler Servo controlled Cushion", "Schuler Cross Bar Feeder", "Eckardt Reoiler and Blank Washer"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK", "Ms Project", "Office 365", "Visio", "Power BI"],
-    "clientLogo": "images/clients/Volkswagen.png",
-    "solutionImage": "images/solutions/Volkswagen_taubate.png"
+    "clientLogo": "images/Clients/Volkswagen.png",
+    "solutionImage": "images/Solutions/Volkswagen_taubate.png"
   },
   {
     "project": "Volkswagen, Commissioning of Schuler Small Transfer Press",
@@ -178,8 +178,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Schuler Servo controlled Cushion"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA"],
     "others": [],
-    "clientLogo": "images/clients/Volkswagen.png",
-    "solutionImage": "images/solutions/Vw_transfer.png"
+    "clientLogo": "images/Clients/Volkswagen.png",
+    "solutionImage": "images/Solutions/Vw_transfer.png"
   },
   {
     "project": "Volkswagen, Retrofit and safety adequacy Line 23",
@@ -191,8 +191,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "Eplan P8", "KUKA Robot KRC3"],
     "networks": ["Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK", "Ms Project", "Office 365"],
-    "clientLogo": "images/clients/Volkswagen.png",
-    "solutionImage": "images/solutions/VW_rua.png"
+    "clientLogo": "images/Clients/Volkswagen.png",
+    "solutionImage": "images/Solutions/VW_rua.png"
   },
   {
     "project": "Volkswagen, Retrofit and safety adequacy Line 7",
@@ -204,8 +204,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "Eplan P8", "KUKA Robot KRC3"],
     "networks": ["Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK", "Ms Project", "Office 365"],
-    "clientLogo": "images/clients/Volkswagen.png",
-    "solutionImage": "images/solutions/VW_rua.png"
+    "clientLogo": "images/Clients/Volkswagen.png",
+    "solutionImage": "images/Solutions/VW_rua.png"
   },
   {
     "project": "Volkswagen, Retrofit Mechanical Tryout Press Inobra",
@@ -217,8 +217,8 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "Eplan P8", "SEW frequency inverters"],
     "networks": ["Profinet", "Profisafe"],
     "others": [],
-    "clientLogo": "images/clients/Volkswagen.png",
-    "solutionImage": "images/solutions/Vw_curitiba.png"
+    "clientLogo": "images/Clients/Volkswagen.png",
+    "solutionImage": "images/Solutions/Vw_curitiba.png"
   },
   {
     "project": "Polimetri, Safety compliance NR12 Robot Cells",
@@ -230,7 +230,7 @@
     "technologies": ["Pilz PNOZ Multi", "Eplan P8"],
     "networks": [],
     "others": [],
-    "clientLogo": "images/clients/Polimetri.png",
-    "solutionImage": "images/solutions/Polimetri.png"
+    "clientLogo": "images/Clients/Polimetri.png",
+    "solutionImage": "images/Solutions/Polimetri.png"
   }
 ]
