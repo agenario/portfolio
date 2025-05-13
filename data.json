@@ -139,7 +139,7 @@
     "technologies": ["Siemens Step7, Wincc, Sinamics", "KUKA Robot KRC4", "Beckhoff TwinCAT 2", "Eplan P8", "Bosch Rexroth Servo Drives", "SEW frequency inverters", "Pepperl-Fuchs inline Vision system"],
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA"],
     "others": [],
-    "clientLogo": "images/Clients/volkswagen_autoeuropa.png",
+    "clientLogo": "images/Clients/Volkswagen_autoeuropa.png",
     "solutionImage": "images/Solutions/Volkswagen_autoeuropa.png"
   },
   {
@@ -179,7 +179,7 @@
     "networks": ["Ethercat", "Profinet", "Profisafe", "OPC UA"],
     "others": [],
     "clientLogo": "images/Clients/Volkswagen.png",
-    "solutionImage": "images/Solutions/Vw_transfer.png"
+    "solutionImage": "images/Solutions/VW_transfer.png"
   },
   {
     "project": "Volkswagen, Retrofit and safety adequacy Line 23",
@@ -192,7 +192,7 @@
     "networks": ["Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK", "Ms Project", "Office 365"],
     "clientLogo": "images/Clients/Volkswagen.png",
-    "solutionImage": "images/Solutions/VW_rua.png"
+    "solutionImage": "images/Solutions/Vw_rua.png"
   },
   {
     "project": "Volkswagen, Retrofit and safety adequacy Line 7",
@@ -205,7 +205,7 @@
     "networks": ["Profinet", "Profisafe", "OPC UA"],
     "others": ["Project Management, PMOK", "Ms Project", "Office 365"],
     "clientLogo": "images/Clients/Volkswagen.png",
-    "solutionImage": "images/Solutions/VW_rua.png"
+    "solutionImage": "images/Solutions/Vw_rua.png"
   },
   {
     "project": "Volkswagen, Retrofit Mechanical Tryout Press Inobra",
